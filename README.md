@@ -17,7 +17,7 @@ Press <code>.</code> to pull up the RES console. Enter <code>RESStorage update R
 
 A window will pop up, with a text area that houses your existing RES tags. MAKE A BACKUP OF YOUR TAGS BEFORE DOING ANYTHING. 
 
-Find the <code>racists.json</code> file in this repository. You'll probably want to select the "Raw" option here on Github and then do Ctrl+A to select all.
+Find the <code>racists.json</code> file in this repository. You'll probably want to select the "Raw" option here on Github and then do Ctrl+A to select all. Or just follow this link: <a href="https://raw.githubusercontent.com/gutsee/reddit_racists/master/racists.json">Raw tag block.</a>
 
 Copy and paste the contents of racists.json (from this repository) into the RES tag box. Hit <code>Confirm</code> to save.
 
